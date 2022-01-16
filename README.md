@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lpr0x00
-- 👀 I’m interested in :python:
-- 🌱 I’m currently learning stuff
+- 👀 I’m interested in :python: :c: :fortran:
+- 🌱 I’m currently learning \_\_stuff\_\_
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me carrier pidgeon
+- 📫 tbd
 
 <!---
 lpr0x00/lpr0x00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
